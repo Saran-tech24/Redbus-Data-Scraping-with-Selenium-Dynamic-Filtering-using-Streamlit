@@ -41,4 +41,4 @@ The project aims to automate data collection from Redbus using Selenium, storing
 2.SQL scripts for creating the database.
 
 3.Documentation and screenshots of the Streamlit app.
-![Screenshot (38)](https://github.com/user-attachments/assets/8be9518d-35cb-46b4-a7c9-7b6de9cd7327)
+![Screenshot (38)](https://github.com/user-attachments/assets/ddb1f596-c9ab-43f4-a1ef-d1318a8d58fd)
